@@ -1,6 +1,6 @@
-# Welcome to my profile! 👋
+# Just code. 👾
 
-Hi, I'm Andre, a web developer.
+Building stuff, breaking stuff, and sometimes fixing it.  
 
 ```javascript
 if (soul.status === 404) {
