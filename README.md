@@ -8,3 +8,5 @@ if (soul.status === 404) {
 }
 ```
 ![andre7zl](https://github-readme-stats.vercel.app/api?username=andre7zl&show_icons=true&theme=radical)
+![andre7zl](https://github-readme-stats.vercel.app/api/top-langs/?username=andre7zl&layout=compact&theme=radical)
+
